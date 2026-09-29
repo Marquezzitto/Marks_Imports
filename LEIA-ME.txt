@@ -1,0 +1,20 @@
+MARKS IMPORTS — Vitrine Virtual
+================================
+
+COMO PUBLICAR NO GITHUB PAGES:
+1. Crie um repositório no GitHub (ex.: marks-imports)
+2. Envie o arquivo index.html para o repositório
+3. Em Settings > Pages, escolha a branch "main" e salve
+4. Seu site ficará em: https://SEU-USUARIO.github.io/marks-imports
+
+SOBRE AS FOTOS:
+- As fotos dos produtos vêm direto do site da distribuidora (links públicos),
+  então funcionam em qualquer hospedagem sem precisar enviar imagens.
+- A logo já está embutida dentro do próprio index.html.
+
+REGRAS DE PREÇO (no final do index.html, seção "Regras de preço"):
+- MARGEM = 0.8  -> preço à vista = valor do PDF + 80%
+- TAXA_MAQUININHA = 0.05 -> 5% de taxa no parcelamento
+- PARCELAS = 3
+- WHATSAPP = número que recebe os pedidos
+Para alterar, basta trocar o número e salvar.
